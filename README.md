@@ -8,7 +8,7 @@ Full Stack Web Developer
 * ✉️  You can contact me at [gracemzerah71@gmail.com](mailto:gracemzerah71@gmail.com)
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on Projects
-* ⚡  An Student Architect,but don't tell anyone
+* ⚡  A Student Architect,but don't tell anyone
 
 <a href="https://www.github.com/Gracesvg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Gracesvg?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" /></a>
